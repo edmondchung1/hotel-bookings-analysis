@@ -8,6 +8,7 @@
 
 **Tableau Dashboard:**  https://public.tableau.com/app/profile/edmond.chung6387/viz/Book1_17563614181970/HotelBookingDemandAnalysis20152017?publish=yes<br>
 
+
 ---
 
 This project investigates a 37% cancellation rate across 119,205 hotel bookings to identify where revenue is being lost and what operational changes could recover it.
