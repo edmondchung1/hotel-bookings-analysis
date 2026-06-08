@@ -6,7 +6,7 @@
 
 **Source:** [Hotel Booking Demand - Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)<br>
 
-**Tableau Dashboard:**  https://public.tableau.com/app/profile/edmond.chung6387/viz/Book1_17563614181970/HotelBookingDemandAnalysis20152017?publish=yes&showOnboarding=true<br>
+**Tableau Dashboard:**  https://public.tableau.com/app/profile/edmond.chung6387/viz/Book1_17563614181970/HotelBookingDemandAnalysis20152017?publish=yes<br>
 
 ---
 
