@@ -1,8 +1,9 @@
 # Hotel Booking Demand Analysis
 
-**Tools:** MySQL, Power BI  
+**Tools:** MySQL, Tableau
 **Data:** 119,205 bookings | City Hotel and Resort Hotel | 2015-2017  
 **Source:** [Hotel Booking Demand - Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+**Tableau:**  https://public.tableau.com/app/profile/edmond.chung6387/viz/Book1_17563614181970/HotelBookingDemandAnalysis20152017?publish=yes&showOnboarding=true
 
 ---
 
@@ -98,9 +99,9 @@ Contract customers represent only 2,810 bookings but generate $528.84 in average
 hotel-bookings-analysis/
 ├── sql/
 │   └── hotel_queries.sql
-├── powerbi/
-│   └── hotel_dashboard.pbix
-│   └── hotel_dashboard.pdf
+├── tableau/
+│   └── hotel_dashboard.twbx
+│   └── dashboard_screenshots.png
 ├── images/
 │   └── query screenshots
 ├── data/
